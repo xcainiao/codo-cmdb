@@ -10,3 +10,4 @@ aliyun_python_sdk_core==2.13.9
 aliyun_python_sdk_rds
 aliyun_python_sdk_r_kvstore
 ucloud-sdk-python3
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
